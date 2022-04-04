@@ -1,4 +1,4 @@
-# Predicting Credit Card Approvals
+# PredictingCredit Card Approvals
 Project Predicting Credit Card Approvals
 
 - Topic : Machine Learning
